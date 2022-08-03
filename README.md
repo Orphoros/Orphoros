@@ -52,3 +52,15 @@
 
 - 🔑 GPG key ID: `A3BFBB025E0685D9`
 - 🆔 OID: `1.3.6.1.4.1.37476.9000.118`
+
+---
+
+[![Orphoros's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orphoros&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Orphoros's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Orphoros&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<h4> ▶️ Find me also on </h4>
+
+<a target="_blank" href="https://twitter.com/orphoros"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
