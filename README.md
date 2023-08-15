@@ -20,6 +20,7 @@
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
       <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
     </td>
     <td>
       <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white">
@@ -65,12 +66,13 @@
 
 ---
 
-[![Orphoros's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orphoros&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Orphoros's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Orphoros&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orphoros&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 <h4> ▶️ Find me also on </h4>
 
-<a target="_blank" href="https://twitter.com/orphoros"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<span>
+  <a target="_blank" href="https://twitter.com/orphoros"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a target="_blank" href="https://gitlab.com/Orphoros"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+</span>
