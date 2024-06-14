@@ -1,5 +1,6 @@
 <h1 align="center"><img src="https://avatars.githubusercontent.com/u/64602077?v=4" width="30px"> Orphoros</h1>
-<h3 align="center">Software Engineer | University Student</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Exploring+Technologies;Software+Engineer;Overengineering+Applications"></a>
 </p>
 
 <h4> ▶️ Toolbox </h4>
