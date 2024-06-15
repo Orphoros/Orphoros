@@ -1,7 +1,19 @@
 <h1 align="center"><img src="https://avatars.githubusercontent.com/u/64602077?v=4" width="30px"> Orphoros</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Exploring+Technologies;Software+Engineer;Creating+Applications+As+Hobby"></a>
-</p>
+<h3 align="center">Software Engineer | Code Wrangler | University Student</h3>
+
+</br>
+
+My hobby, my passion, my work, my studies: making software. From the desktop, through the phone, to the web!
+
+<h4> ▶️ About </h4>
+
+- 🎓 Computer science student specializing in data science
+
+- 🌱 Learning new programming languages in my free time
+
+- 💡 Investigating cross-platform desktop frameworks
+
+- 📝 Developing desktop, web and backend applications
 
 <h4> ▶️ Toolbox </h4>
 <table>
@@ -68,7 +80,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </span>
 
-
 <h4> ▶️ IDs </h4>
 
 - 🔑 GPG key ID: `A3BFBB025E0685D9`
@@ -82,3 +93,10 @@
   <a target="_blank" href="https://twitter.com/orphoros"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a target="_blank" href="https://gitlab.com/Orphoros"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </span>
+
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/Orphoros/count.svg"/>
+  </div> 
+</p>
