@@ -93,10 +93,3 @@ My hobby, my passion, my work, my studies: making software. From the desktop, th
   <a target="_blank" href="https://twitter.com/orphoros"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a target="_blank" href="https://gitlab.com/Orphoros"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </span>
-
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Orphoros/count.svg"/>
-  </div> 
-</p>
