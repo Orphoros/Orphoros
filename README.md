@@ -13,7 +13,7 @@ My hobby, my passion, my work, my studies: making software. From the desktop, th
 
 - 💡 Investigating cross-platform desktop frameworks
 
-- 📝 Developing desktop, web and backend applications
+- 📝 Developing desktop, web, and backend applications
 
 <h4> ▶️ Toolbox </h4>
 <table>
