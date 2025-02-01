@@ -85,6 +85,10 @@ My hobby, my passion, my work, my studies: making software. From the desktop, th
 - 🔑 GPG key ID: `A3BFBB025E0685D9`
 - 🆔 OID: `1.3.6.1.4.1.37476.9000.118`
 
+<h4> ▶️ Devcard </h4>
+
+<a href="https://app.daily.dev/orphoros"><img src="https://api.daily.dev/devcards/v2/1EPZrDchBrKVRR1SjCxIS.png?type=default&r=0ie" width="356" alt="Orphoros's Dev Card"/></a>
+
 ---
 
 <h4> ▶️ Find me also on </h4>
