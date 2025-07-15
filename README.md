@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://avatars.githubusercontent.com/u/64602077?v=4" width="30px"> Orphoros</h1>
-<h3 align="center">Software Engineer | Code Wrangler | MSc University Student</h3>
+<h3 align="center">MSc Software Engineer | Code Wrangler</h3>
 
 </br>
 
