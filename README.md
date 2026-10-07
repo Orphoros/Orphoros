@@ -7,7 +7,7 @@ My hobby, my passion, my work, my studies: making software. From the desktop, th
 
 <h4> ▶️ About </h4>
 
-- 🎓 Computer science student specializing in data science
+- 📊 Data Engineer in the Netherlands specializing in data science, backend developement, and performance optimalizations
 
 - 🌱 Learning new programming languages in my free time
 
